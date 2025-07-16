@@ -3,8 +3,8 @@ Build a cloud-native, end-to-end integration project on Microsoft Azure using No
 ## 📌 Project Milestones
 
 1. **Project Setup**
-   - Set up Azure account [done]
-   - Create GitHub repository [done]
+   - ~~Set up Azure account [done]~~
+   - ~~Create GitHub repository [done]~~
    - Initialize local Node.js development environment
 
 2. **Infrastructure as Code**
