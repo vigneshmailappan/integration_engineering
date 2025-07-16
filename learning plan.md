@@ -87,4 +87,42 @@
 ### 8. ✅ Testing Phases
 **Objective**: Validate the system end-to-end.
 
-- **S
+- **SIT (System Integration Testing)**: Test backend + Logic App
+- **UAT (User Acceptance Testing)**: Simulate user scenarios
+- Write test cases and test reports
+- Tools: Postman, Excel/TestRail
+
+---
+
+### 9. 🚦 Cutover & Go-Live
+**Objective**: Deploy to production (or simulate it).
+
+- Create a cutover plan
+- Simulate a go/no-go meeting
+- Deploy final version
+- Tools: GitHub Actions, Azure Portal
+
+---
+
+### 10. 🛡️ Hypercare & Handover
+**Objective**: Monitor and support post-deployment.
+
+- Set up monitoring/logging (Azure Monitor, App Insights)
+- Create a runbook or support guide
+- Document lessons learned
+
+---
+
+## 📁 Bonus: Artifacts You’ll Create
+
+- Project Charter
+- BRD & TDD
+- Architecture Diagram
+- Terraform scripts
+- Node.js app
+- Logic App workflow
+- GitHub Actions workflows
+- Test cases and reports
+- Cutover plan
+- Handover documentation
+
