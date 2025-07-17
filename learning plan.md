@@ -10,7 +10,11 @@
 **Objective**: Understand the problem, define scope, and plan delivery.
 
 - Define business goal and project vision
+     Build a backend service that automates the retrieval of global country data—including names, capitals, currencies, population, area, languages, and timezones—from a public API. This data will be stored in a relational database and made accessible for internal dashboards, reporting tools, and data-driven decision-making.
+
 - Identify stakeholders (simulated)
+    Me, you and other learners and contributors
+  
 - Write a Project Charter
 - Create a high-level timeline and milestone plan
 - Tools: Notion, Trello, Azure DevOps Boards
